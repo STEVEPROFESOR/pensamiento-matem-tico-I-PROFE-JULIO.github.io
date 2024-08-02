@@ -1,0 +1,36 @@
+Actividad 1: Progresión 4
+Instrucciones:
+Dado el conjunto C = {a, b, c} y el conjunto D = {b, c, d, e}, encuentra la unión C ∪ D, la intersección C ∩ D y la cardinalidad de cada conjunto resultante.
+
+Descripción de la Actividad:
+Tenemos dos conjuntos: C y D. El conjunto C contiene los elementos {a, b, c} y el conjunto D contiene los elementos {b, c, d, e}.
+
+Unión de C y D:
+La unión de dos conjuntos es el conjunto de todos los elementos que pertenecen a cualquiera de los dos conjuntos o a ambos. Vamos a combinar los elementos de C y D, asegurándonos de no repetir ningún elemento:
+
+Los elementos de C son a, b y c.
+Los elementos de D son b, c, d y e.
+Cuando combinamos estos elementos sin repetir, obtenemos el conjunto {a, b, c, d, e}. Esta es la unión de C y D, denotada como C ∪ D. Ahora, contemos los elementos del conjunto resultante:
+
+La unión C ∪ D tiene 5 elementos: {a, b, c, d, e}. Por lo tanto, la cardinalidad de C ∪ D es 5.
+Intersección de C y D:
+La intersección de dos conjuntos es el conjunto de todos los elementos que son comunes a ambos conjuntos. Veamos cuáles son los elementos comunes en C y D:
+
+Los elementos de C son a, b y c.
+Los elementos de D son b, c, d y e.
+Los elementos que están en ambos conjuntos son b y c. Por lo tanto, la intersección de C y D, denotada como C ∩ D, es {b, c}. Ahora, contemos los elementos del conjunto resultante:
+
+La intersección C ∩ D tiene 2 elementos: {b, c}. Por lo tanto, la cardinalidad de C ∩ D es 2.
+Respuestas:
+¿Cuál es la unión de los conjuntos C y D?
+
+La unión de los conjuntos C y D es {a, b, c, d, e}.
+¿Cuál es la intersección de los conjuntos C y D?
+
+La intersección de los conjuntos C y D es {b, c}.
+¿Cuál es la cardinalidad de C ∪ D?
+
+La cardinalidad de C ∪ D es 5.
+¿Cuál es la cardinalidad de C ∩ D?
+
+La cardinalidad de C ∩ D es 2
