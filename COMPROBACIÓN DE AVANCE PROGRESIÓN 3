@@ -1,0 +1,129 @@
+Comprobación de Avance
+Ejercicios de Cierre de la Progresión
+Ejercicio 1: Identificación de Eventos Simples y Compuestos
+
+Instrucciones: Lee cada situación presentada y determina los elementos del evento descrito. Escribe si el evento es simple o compuesto y explica brevemente tu razonamiento.
+
+Situación A: Lanzar una moneda y obtener cara.
+
+Elementos del evento: Moneda, cara
+
+Evento: Simple
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (lanzar una moneda).
+
+Situación B: Lanzar un dado y obtener un número par.
+
+Elementos del evento: Dado, números pares (2, 4, 6)
+
+Evento: Simple
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (lanzar un dado y obtener un número par).
+
+Situación C: Sacar una carta roja de un mazo de cartas.
+
+Elementos del evento: Mazo de cartas, cartas rojas
+
+Evento: Simple
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (sacar una carta roja de un mazo de cartas).
+
+Situación D: Sacar una bola roja de una bolsa con 3 bolas rojas y 2 bolas verdes, y luego sacar una bola verde sin devolver la primera bola a la bolsa.
+
+Elementos del evento: Bolsa, bolas rojas, bolas verdes
+
+Evento: Compuesto
+
+Explicación: Este es un evento compuesto porque implica dos resultados secuenciales dependientes (sacar una bola roja y luego una bola verde sin devolución).
+
+Situación E: Lanzar dos dados y obtener un doble seis.
+
+Elementos del evento: Dos dados, doble seis
+
+Evento: Compuesto
+
+Explicación: Este es un evento compuesto porque implica dos resultados en un solo experimento (lanzar dos dados y obtener un seis en ambos).
+
+Ejercicio 2: Creación de Eventos Simples y Compuestos
+
+Instrucciones: Crea cinco ejemplos de eventos simples y cinco ejemplos de eventos compuestos. Determina los elementos de cada evento creado y escribe una breve explicación de por qué cada evento es simple o compuesto.
+
+Ejemplo de Evento Simple:
+
+Descripción: Lanzar una moneda y obtener cruz.
+
+Elementos del evento: Moneda, cruz
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (lanzar una moneda).
+
+Ejemplo de Evento Simple:
+
+Descripción: Lanzar un dado y obtener un número mayor a 4.
+
+Elementos del evento: Dado, números mayores a 4 (5, 6)
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (lanzar un dado y obtener un número mayor a 4).
+
+Ejemplo de Evento Simple:
+
+Descripción: Sacar una carta de trébol de un mazo de cartas.
+
+Elementos del evento: Mazo de cartas, cartas de trébol
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (sacar una carta de trébol de un mazo de cartas).
+
+Ejemplo de Evento Simple:
+
+Descripción: Lanzar una moneda y obtener cara.
+
+Elementos del evento: Moneda, cara
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (lanzar una moneda).
+
+Ejemplo de Evento Simple:
+
+Descripción: Sacar una bola verde de una bolsa con 3 bolas verdes y 2 bolas rojas.
+
+Elementos del evento: Bolsa, bolas verdes
+
+Explicación: Este es un evento simple porque solo implica un solo resultado de un único experimento (sacar una bola verde).
+
+Ejemplo de Evento Compuesto:
+
+Descripción: Lanzar un dado y obtener un número mayor a 4, y luego lanzar una moneda y obtener cara.
+
+Elementos del evento: Dado, números mayores a 4 (5, 6), moneda, cara
+
+Explicación: Este es un evento compuesto porque implica dos resultados secuenciales (lanzar un dado y obtener un número mayor a 4, y luego lanzar una moneda y obtener cara).
+
+Ejemplo de Evento Compuesto:
+
+Descripción: Sacar una carta de corazones y luego una carta de tréboles sin devolver la primera carta al mazo.
+
+Elementos del evento: Mazo de cartas, cartas de corazones, cartas de tréboles
+
+Explicación: Este es un evento compuesto porque implica dos resultados secuenciales dependientes (sacar una carta de corazones y luego una carta de tréboles sin devolución).
+
+Ejemplo de Evento Compuesto:
+
+Descripción: Sacar una bola roja de una bolsa y luego sacar una bola verde sin devolver la primera bola a la bolsa.
+
+Elementos del evento: Bolsa, bolas rojas, bolas verdes
+
+Explicación: Este es un evento compuesto porque implica dos resultados secuenciales dependientes (sacar una bola roja y luego una bola verde sin devolución).
+
+Ejemplo de Evento Compuesto:
+
+Descripción: Lanzar dos dados y obtener un total de 7.
+
+Elementos del evento: Dos dados, combinaciones que suman 7 (1+6, 2+5, 3+4, 4+3, 5+2, 6+1)
+
+Explicación: Este es un evento compuesto porque implica dos resultados en un solo experimento (lanzar dos dados y obtener un total de 7).
+
+Ejemplo de Evento Compuesto:
+
+Descripción: Lanzar una moneda dos veces y obtener cara en ambas ocasiones.
+
+Elementos del evento: Moneda, cara, dos lanzamientos
+
+Explicación: Este es un evento compuesto porque implica dos resultados secuenciales (lanzar una moneda dos veces y obtener cara en ambas ocasiones).
