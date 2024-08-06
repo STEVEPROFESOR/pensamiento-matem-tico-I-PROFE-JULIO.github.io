@@ -1,0 +1,38 @@
+Respuestas a la Actividad de Cierre
+Parte 1: Calcular la Mediana
+Datos: 10, 15, 14, 12, 11, 13, 9
+Paso 1: Ordenar los datos de menor a mayor:
+Datos ordenados: 9, 10, 11, 12, 13, 14, 15
+Paso 2: Identificar el valor central:
+Número de datos (n) = 7 (impar)
+Mediana = valor central = 12
+Parte 2: Calcular la Moda
+Datos: 1, 2, 2, 3, 4, 4, 4, 5
+Paso 1: Contar la frecuencia de cada valor:
+Frecuencia del 1: 1
+Frecuencia del 2: 2
+Frecuencia del 3: 1
+Frecuencia del 4: 3
+Frecuencia del 5: 1
+Paso 2: Identificar el valor con mayor frecuencia:
+Moda = 4 (aparece 3 veces)
+Parte 3: Calcular la Media Aritmética
+Datos: 18, 21, 19, 22, 20
+Paso 1: Sumar todos los valores:
+Suma = 18 + 21 + 19 + 22 + 20 = 100
+Paso 2: Dividir la suma entre el número total de valores:
+Número de valores (n) = 5
+Media aritmética = 100 / 5 = 20
+Resumen de Resultados
+Mediana:
+
+Datos: 9, 10, 11, 12, 13, 14, 15
+Mediana = 12
+Moda:
+
+Datos: 1, 2, 2, 3, 4, 4, 4, 5
+Moda = 4
+Media Aritmética:
+
+Datos: 18, 21, 19, 22, 20
+Media aritmética = 20
