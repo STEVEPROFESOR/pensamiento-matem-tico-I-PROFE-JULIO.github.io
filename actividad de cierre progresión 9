@@ -1,0 +1,56 @@
+Respuestas a la Actividad
+Parte 1: Calcular el Número de Formas de Seleccionar 2 Bolas
+Definir el total de bolas:
+
+Número total de bolas = 5
+Definir el tamaño de la selección:
+
+Tamaño de la selección = 2
+Utilizar la fórmula de combinaciones:
+
+Fórmula: Combinaciones de n elementos tomados de k en k = n! / (k! * (n - k)!)
+Sustituir los valores:
+Combinaciones de 5 elementos tomados de 2 en 2 = 5! / (2! * (5 - 2)!)
+Calcular los factoriales:
+
+Calcular 5!:
+5! = 5 * 4 * 3 * 2 * 1 = 120
+Calcular 2!:
+2! = 2 * 1 = 2
+Calcular (5 - 2)!:
+3! = 3 * 2 * 1 = 6
+Sustituir los valores de los factoriales en la fórmula:
+
+Combinaciones de 5 elementos tomados de 2 en 2 = 120 / (2 * 6)
+Simplificar y calcular el número de combinaciones:
+
+2 * 6 = 12
+120 / 12 = 10
+Resultado:
+
+Hay 10 formas de elegir 2 bolas de una bolsa con 5 bolas.
+Parte 2: Calcular la Probabilidad de que al Menos una Bola Seleccionada Tenga el Número 3
+Definir el total de combinaciones posibles:
+
+Total de combinaciones posibles = 10 (de la Parte 1)
+Identificar los resultados favorables:
+
+Listar todas las posibles combinaciones de 2 bolas de las 5 bolas numeradas del 1 al 5:
+(1, 2), (1, 3), (1, 4), (1, 5)
+(2, 3), (2, 4), (2, 5)
+(3, 4), (3, 5)
+(4, 5)
+Contar las combinaciones que incluyen el número 3:
+(1, 3), (2, 3), (3, 4), (3, 5)
+Número de combinaciones favorables = 4
+Calcular la probabilidad usando la fórmula de probabilidad clásica:
+
+Fórmula: Probabilidad de un evento = Número de resultados favorables / Número total de resultados posibles
+Sustituir los valores:
+Probabilidad de que al menos una bola tenga el número 3 = 4 / 10
+Simplificar y calcular la probabilidad:
+
+4 / 10 = 0.4
+Resultado:
+
+La probabilidad de que al menos una de las bolas seleccionadas tenga el número 3 es 0.4 (40%).
