@@ -1,0 +1,119 @@
+Respuestas a la Actividad
+Parte 1: Calcular la Frecuencia Absoluta
+Datos: 5, 5, 6, 6, 6, 7, 8, 8, 9
+Paso 1: Contar la frecuencia de cada valor:
+Frecuencia absoluta del 5: 2
+Frecuencia absoluta del 6: 3
+Frecuencia absoluta del 7: 1
+Frecuencia absoluta del 8: 2
+Frecuencia absoluta del 9: 1
+Parte 2: Calcular la Frecuencia Relativa
+Datos: 5, 5, 6, 6, 6, 7, 8, 8, 9
+Paso 1: Calcular el número total de observaciones:
+Número total de observaciones (N): 9
+Paso 2: Dividir la frecuencia absoluta de cada valor entre el número total de observaciones:
+Frecuencia relativa del 5: 
+2
+9
+≈
+0.222
+9
+2
+​
+ ≈0.222
+Frecuencia relativa del 6: 
+3
+9
+=
+0.333
+9
+3
+​
+ =0.333
+Frecuencia relativa del 7: 
+1
+9
+≈
+0.111
+9
+1
+​
+ ≈0.111
+Frecuencia relativa del 8: 
+2
+9
+≈
+0.222
+9
+2
+​
+ ≈0.222
+Frecuencia relativa del 9: 
+1
+9
+≈
+0.111
+9
+1
+​
+ ≈0.111
+Parte 3: Calcular la Frecuencia Relativa Acumulada
+Datos: 5, 5, 6, 6, 6, 7, 8, 8, 9
+Paso 1: Calcular la frecuencia relativa acumulada sumando las frecuencias relativas de los valores menores o iguales a cada valor:
+Frecuencia relativa acumulada del 5: 
+0.222
+0.222
+Frecuencia relativa acumulada del 6: 
+0.222
++
+0.333
+=
+0.555
+0.222+0.333=0.555
+Frecuencia relativa acumulada del 7: 
+0.555
++
+0.111
+=
+0.666
+0.555+0.111=0.666
+Frecuencia relativa acumulada del 8: 
+0.666
++
+0.222
+=
+0.888
+0.666+0.222=0.888
+Frecuencia relativa acumulada del 9: 
+0.888
++
+0.111
+=
+0.999
+0.888+0.111=0.999
+Resumen de Resultados
+Frecuencia Absoluta:
+
+Datos: 5, 5, 6, 6, 6, 7, 8, 8, 9
+Frecuencia absoluta del 5: 2
+Frecuencia absoluta del 6: 3
+Frecuencia absoluta del 7: 1
+Frecuencia absoluta del 8: 2
+Frecuencia absoluta del 9: 1
+Frecuencia Relativa:
+
+Datos: 5, 5, 6, 6, 6, 7, 8, 8, 9
+Frecuencia relativa del 5: 0.222
+Frecuencia relativa del 6: 0.333
+Frecuencia relativa del 7: 0.111
+Frecuencia relativa del 8: 0.222
+Frecuencia relativa del 9: 0.111
+Frecuencia Relativa Acumulada:
+
+Datos: 5, 5, 6, 6, 6, 7, 8, 8, 9
+Frecuencia relativa acumulada del 5: 0.222
+Frecuencia relativa acumulada del 6: 0.555
+Frecuencia relativa acumulada del 7: 0.666
+Frecuencia relativa acumulada del 8: 0.888
+Frecuencia relativa acumulada del 9: 0.999
+Espero que estas respuestas te ayuden a comprender mejor cómo calcular la frecuencia absoluta, la frecuencia relativa y la frecuencia relativa acumulada. Si tienes alguna otra pregunta o necesitas más detalles, no dudes en pedírmelo.
