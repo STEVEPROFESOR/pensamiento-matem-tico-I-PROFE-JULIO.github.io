@@ -1,0 +1,170 @@
+Parte 1: Crear una Tabla de Distribución de Frecuencias
+Datos: 48, 52, 56, 60, 64, 68, 72, 76, 80, 84
+
+Paso 1: Crear intervalos adecuados para los datos.
+
+Intervalos: 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80-84
+Paso 2: Contar la frecuencia absoluta de cada intervalo.
+
+Frecuencia absoluta:
+Paso 3: Calcular la frecuencia relativa de cada intervalo.
+
+Número total de observaciones (
+𝑁
+N): 10
+Frecuencia relativa:
+45-49: 
+1
+/
+10
+=
+0.1
+1/10=0.1
+50-54: 
+1
+/
+10
+=
+0.1
+1/10=0.1
+55-59: 
+1
+/
+10
+=
+0.1
+1/10=0.1
+60-64: 
+2
+/
+10
+=
+0.2
+2/10=0.2
+65-69: 
+1
+/
+10
+=
+0.1
+1/10=0.1
+70-74: 
+1
+/
+10
+=
+0.1
+1/10=0.1
+75-79: 
+1
+/
+10
+=
+0.1
+1/10=0.1
+80-84: 
+2
+/
+10
+=
+0.2
+2/10=0.2
+Paso 4: Calcular la frecuencia relativa acumulada de cada intervalo.
+
+Frecuencia relativa acumulada:
+50-54: 
+0.1
++
+0.1
+=
+0.2
+0.1+0.1=0.2
+55-59: 
+0.2
++
+0.1
+=
+0.3
+0.2+0.1=0.3
+60-64: 
+0.3
++
+0.2
+=
+0.5
+0.3+0.2=0.5
+65-69: 
+0.5
++
+0.1
+=
+0.6
+0.5+0.1=0.6
+70-74: 
+0.6
++
+0.1
+=
+0.7
+0.6+0.1=0.7
+75-79: 
+0.7
++
+0.1
+=
+0.8
+0.7+0.1=0.8
+80-84: 
+0.8
++
+0.2
+=
+1.0
+0.8+0.2=1.0
+Intervalo	Frecuencia Absoluta (
+𝑓
+f)	Frecuencia Relativa (
+𝑓
+𝑟
+f 
+r
+​
+ )	Frecuencia Relativa Acumulada (
+𝐹
+𝑟
+F 
+r
+​
+ )
+45-49	1	0.1	0.1
+50-54	1	0.1	0.2
+55-59	1	0.1	0.3
+60-64	2	0.2	0.5
+65-69	1	0.1	0.6
+70-74	1	0.1	0.7
+75-79	1	0.1	0.8
+80-84	2	0.2	1.0
+Parte 2: Crear un Histograma
+Paso 1: Utilizar la tabla de distribución de frecuencias creada en la Parte 1.
+Paso 2: Dibujar un gráfico con los intervalos en el eje X y las frecuencias absolutas en el eje Y.
+Paso 3: Dibujar una barra para cada intervalo con la altura correspondiente a la frecuencia absoluta.
+(Para la visualización gráfica, se dibuja un histograma donde cada barra representa un intervalo de valores y su altura representa la frecuencia absoluta de ese intervalo).
+
+Parte 3: Crear un Polígono de Frecuencias
+Paso 1: Utilizar la tabla de distribución de frecuencias creada en la Parte 1.
+Paso 2: Dibujar un gráfico con los intervalos en el eje X y las frecuencias absolutas en el eje Y.
+Paso 3: Marcar un punto para cada intervalo en la altura correspondiente a la frecuencia absoluta.
+Paso 4: Conectar los puntos con líneas rectas.
+(Para la visualización gráfica, se dibuja un polígono de frecuencias donde cada punto representa un intervalo de valores y su altura representa la frecuencia absoluta de ese intervalo, luego se conectan los puntos con líneas rectas).
+
+Resumen de Resultados
+Tabla de Distribución de Frecuencias:
+
+Intervalos, frecuencias absolutas, frecuencias relativas y frecuencias relativas acumuladas se muestran en la tabla anterior.
+Histograma:
+
+Un gráfico de barras que representa la frecuencia absoluta de cada intervalo.
+Polígono de Frecuencias:
+
+Un gráfico de líneas que conecta los puntos representando la frecuencia absoluta de cada intervalo.
+Espero que estas respuestas te ayuden a comprender mejor cómo crear una tabla de distribución de frecuencias, un histograma y un polígono de frecuencias. Si tienes alguna otra pregunta o necesitas más detalles, no dudes en pedírmelo.
