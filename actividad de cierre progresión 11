@@ -1,0 +1,125 @@
+Respuestas a la Actividad de Cierre progresion 11
+Parte 1: Calcular la Frecuencia Absoluta
+Datos: 0, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5
+Paso 1: Contar la frecuencia de cada valor:
+Frecuencia absoluta del 0: 1
+Frecuencia absoluta del 1: 2
+Frecuencia absoluta del 2: 3
+Frecuencia absoluta del 3: 3
+Frecuencia absoluta del 4: 2
+Frecuencia absoluta del 5: 1
+Parte 2: Calcular la Frecuencia Relativa
+Datos: 0, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5
+Paso 1: Calcular el número total de observaciones:
+Número total de observaciones (N): 12
+Paso 2: Dividir la frecuencia absoluta de cada valor entre el número total de observaciones:
+Frecuencia relativa del 0: 
+1
+/
+12
+≈
+0.083
+1/12≈0.083
+Frecuencia relativa del 1: 
+2
+/
+12
+=
+0.167
+2/12=0.167
+Frecuencia relativa del 2: 
+3
+/
+12
+=
+0.25
+3/12=0.25
+Frecuencia relativa del 3: 
+3
+/
+12
+=
+0.25
+3/12=0.25
+Frecuencia relativa del 4: 
+2
+/
+12
+=
+0.167
+2/12=0.167
+Frecuencia relativa del 5: 
+1
+/
+12
+≈
+0.083
+1/12≈0.083
+Parte 3: Calcular la Frecuencia Relativa Acumulada
+Datos: 0, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5
+Paso 1: Calcular la frecuencia relativa acumulada sumando las frecuencias relativas de los valores menores o iguales a cada valor:
+Frecuencia relativa acumulada del 0: 0.083
+Frecuencia relativa acumulada del 1: 
+0.083
++
+0.167
+=
+0.25
+0.083+0.167=0.25
+Frecuencia relativa acumulada del 2: 
+0.25
++
+0.25
+=
+0.5
+0.25+0.25=0.5
+Frecuencia relativa acumulada del 3: 
+0.5
++
+0.25
+=
+0.75
+0.5+0.25=0.75
+Frecuencia relativa acumulada del 4: 
+0.75
++
+0.167
+=
+0.917
+0.75+0.167=0.917
+Frecuencia relativa acumulada del 5: 
+0.917
++
+0.083
+=
+1.0
+0.917+0.083=1.0
+Resumen de Resultados
+Frecuencia Absoluta:
+
+Datos: 0, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5
+Frecuencia absoluta del 0: 1
+Frecuencia absoluta del 1: 2
+Frecuencia absoluta del 2: 3
+Frecuencia absoluta del 3: 3
+Frecuencia absoluta del 4: 2
+Frecuencia absoluta del 5: 1
+Frecuencia Relativa:
+
+Datos: 0, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5
+Frecuencia relativa del 0: 0.083
+Frecuencia relativa del 1: 0.167
+Frecuencia relativa del 2: 0.25
+Frecuencia relativa del 3: 0.25
+Frecuencia relativa del 4: 0.167
+Frecuencia relativa del 5: 0.083
+Frecuencia Relativa Acumulada:
+
+Datos: 0, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5
+Frecuencia relativa acumulada del 0: 0.083
+Frecuencia relativa acumulada del 1: 0.25
+Frecuencia relativa acumulada del 2: 0.5
+Frecuencia relativa acumulada del 3: 0.75
+Frecuencia relativa acumulada del 4: 0.917
+Frecuencia relativa acumulada del 5: 1.0
+Espero que estas respuestas te ayuden a comprender mejor cómo calcular la frecuencia absoluta, la frecuencia relativa y la frecuencia relativa acumulada. Si tienes alguna otra pregunta o necesitas más detalles, no dudes en pedírmelo.
