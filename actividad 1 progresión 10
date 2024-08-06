@@ -1,0 +1,38 @@
+Respuestas a la Actividad
+Parte 1: Calcular la Mediana
+Datos: 7, 2, 9, 4, 5
+Paso 1: Ordenar los datos de menor a mayor:
+Datos ordenados: 2, 4, 5, 7, 9
+Paso 2: Identificar el valor central:
+Número de datos (n) = 5 (impar)
+Mediana = valor central = 5
+Parte 2: Calcular la Moda
+Datos: 3, 5, 3, 8, 6, 3, 4
+Paso 1: Contar la frecuencia de cada valor:
+Frecuencia del 3: 3
+Frecuencia del 5: 1
+Frecuencia del 8: 1
+Frecuencia del 6: 1
+Frecuencia del 4: 1
+Paso 2: Identificar el valor con mayor frecuencia:
+Moda = 3 (aparece 3 veces)
+Parte 3: Calcular la Media Aritmética
+Datos: 10, 20, 30, 40, 50
+Paso 1: Sumar todos los valores:
+Suma = 10 + 20 + 30 + 40 + 50 = 150
+Paso 2: Dividir la suma entre el número total de valores:
+Número de valores (n) = 5
+Media aritmética = 150 / 5 = 30
+Resumen de Resultados
+Mediana:
+
+Datos: 2, 4, 5, 7, 9
+Mediana = 5
+Moda:
+
+Datos: 3, 5, 3, 8, 6, 3, 4
+Moda = 3
+Media Aritmética:
+
+Datos: 10, 20, 30, 40, 50
+Media aritmética = 30
