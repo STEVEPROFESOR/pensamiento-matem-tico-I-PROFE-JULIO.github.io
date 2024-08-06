@@ -1,0 +1,173 @@
+Respuestas a la Actividad de Cierre
+Parte 1: Crear una Tabla de Distribución de Frecuencias
+Datos: 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56
+
+Paso 1: Crear intervalos adecuados para los datos.
+
+Intervalos: 34-36, 37-39, 40-42, 43-45, 46-48, 49-51, 52-54, 55-57
+Paso 2: Contar la frecuencia absoluta de cada intervalo.
+
+Frecuencia absoluta:
+Paso 3: Calcular la frecuencia relativa de cada intervalo.
+
+Número total de observaciones (N): 12
+Frecuencia relativa:
+34-36: 
+2
+/
+12
+=
+0.167
+2/12=0.167
+37-39: 
+1
+/
+12
+=
+0.083
+1/12=0.083
+40-42: 
+2
+/
+12
+=
+0.167
+2/12=0.167
+43-45: 
+1
+/
+12
+=
+0.083
+1/12=0.083
+46-48: 
+2
+/
+12
+=
+0.167
+2/12=0.167
+49-51: 
+1
+/
+12
+=
+0.083
+1/12=0.083
+52-54: 
+2
+/
+12
+=
+0.167
+2/12=0.167
+55-57: 
+1
+/
+12
+=
+0.083
+1/12=0.083
+Paso 4: Calcular la frecuencia relativa acumulada de cada intervalo.
+
+Frecuencia relativa acumulada:
+37-39: 
+0.167
++
+0.083
+=
+0.25
+0.167+0.083=0.25
+40-42: 
+0.25
++
+0.167
+=
+0.417
+0.25+0.167=0.417
+43-45: 
+0.417
++
+0.083
+=
+0.5
+0.417+0.083=0.5
+46-48: 
+0.5
++
+0.167
+=
+0.667
+0.5+0.167=0.667
+49-51: 
+0.667
++
+0.083
+=
+0.75
+0.667+0.083=0.75
+52-54: 
+0.75
++
+0.167
+=
+0.917
+0.75+0.167=0.917
+55-57: 
+0.917
++
+0.083
+=
+1.0
+0.917+0.083=1.0
+Intervalo	Frecuencia Absoluta (
+𝑓
+f)	Frecuencia Relativa (
+𝑓
+𝑟
+f 
+r
+​
+ )	Frecuencia Relativa Acumulada (
+𝐹
+𝑟
+F 
+r
+​
+ )
+34-36	2	0.167	0.167
+37-39	1	0.083	0.25
+40-42	2	0.167	0.417
+43-45	1	0.083	0.5
+46-48	2	0.167	0.667
+49-51	1	0.083	0.75
+52-54	2	0.167	0.917
+55-57	1	0.083	1.0
+Parte 2: Crear un Histograma
+Paso 1: Utilizar la tabla de distribución de frecuencias creada en la Parte 1.
+Paso 2: Dibujar un gráfico con los intervalos en el eje X y las frecuencias absolutas en el eje Y.
+Paso 3: Dibujar una barra para cada intervalo con la altura correspondiente a la frecuencia absoluta.
+
+Parte 3: Crear un Polígono de Frecuencias
+Paso 1: Utilizar la tabla de distribución de frecuencias creada en la Parte 1.
+Paso 2: Dibujar un gráfico con los intervalos en el eje X y las frecuencias absolutas en el eje Y.
+Paso 3: Marcar un punto para cada intervalo en la altura correspondiente a la frecuencia absoluta.
+Paso 4: Conectar los puntos con líneas rectas.
+
+Resumen de Resultados
+Tabla de Distribución de Frecuencias:
+
+Intervalos, frecuencias absolutas, frecuencias relativas y frecuencias relativas acumuladas se muestran en la tabla anterior.
+Histograma:
+
+Un gráfico de barras que representa la frecuencia absoluta de cada intervalo.
+Polígono de Frecuencias:
+
+Un gráfico de líneas que conecta los puntos representando la frecuencia absoluta de cada intervalo.
+Espero que estas respuestas te ayuden a comprender mejor cómo crear una tabla de distribución de frecuencias, un histograma y un polígono de frecuencias. Si tienes alguna otra pregunta o necesitas más detalles, no dudes en pedírmelo.
+
+
+
+
+
+
